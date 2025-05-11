@@ -1,0 +1,12 @@
+.elementor-widget .elementor-icon-list-item, .elementor-widget .elementor-icon-list-item a 
+{
+	align-items: flex-start!important; 
+}
+.elementor-icon-list-icon {
+    margin-top: 5px;
+}
+
+
+
+To do this add this CSS to the your additional CSS area by going to Appearance > Customize > Additional CSS. Once you paste the code in hit “Publish”.
+
